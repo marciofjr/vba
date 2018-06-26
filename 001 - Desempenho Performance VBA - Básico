@@ -1,0 +1,28 @@
+'Tudo Declarado com "Option Explicit" o código fica mais leve e rápido na leitura ao executar... < Dica Extra.
+
+Option Explicit
+
+Private Sub desempenho()
+
+'Coloca os 3 comandos simples no início:::
+'1 - Congela a Tela - Permite Ganho de Processamento e Ram
+Application.ScreenUpdating = False
+
+'2 - Evita que no momento de Execução da Sua Macro Calcule alguma fórmula da planilha que não queremos
+Application.Calculation = xlCalculationManual
+
+'3 - Cancela a Exibição de Mensagens Básica em Tela
+Application.EnableEvents = False
+
+'-----------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------
+'Não Esquecer de finalizar o módulo voltando ao normal o Excel.
+'-----------------------------------------------------------------------------------
+'-----------------------------------------------------------------------------------
+
+Application.ScreenUpdating = True
+Application.Calculation = xlCalculationSemiautomatic
+Application.EnableEvents = True
+
+
+End Sub
