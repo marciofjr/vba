@@ -1,5 +1,5 @@
-# vba
-Meus Arquivos em VBA - Bem Simples Várias Partes/Módulos
+# Meus Arquivos em VBA 
+ Bem Simples Várias Partes/Módulos
 
 Pode Acessar Direto em >>> 
 https://gist.github.com/marciofjr
@@ -53,6 +53,5 @@ Com as 4 respostas em mãos calculamos:
    No cenário 2 se for urgente, compensaria pagar para terceiro automatizar a tarefa. 
 
 
-*   Espero que os códigos salvos aqui consiga ajudar/auxiliar.
-
-#  Por favor, compartilhem códigos e façam comentários.
+-  Espero que os códigos salvos aqui consiga ajudar/auxiliar.
+-  Por favor, compartilhem códigos e façam comentários.
