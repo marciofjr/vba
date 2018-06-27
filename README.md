@@ -34,7 +34,7 @@ Com as 4 respostas em mãos calculamos:
       quais serão orçadas com terceiros ou desenvolvida internamente e quais podem esperar.
 
 1 Exemplo/Simulação:
-<ul> Tarefa Relatório: 
+<ul> <p>Tarefa Relatório: </p></br>
         Periodicidade = 3 x semana
         Tempo p/ Executar = 2 Horas
         Tenho Disponível = 1 hora por dia para automatizar
