@@ -1,24 +1,23 @@
 # vba
-Meus Arquivos em VBA 
-- Códigos Simples do Dia-a-Dia
+Meus Arquivos em VBA - Bem Simples Várias Partes/Módulos
 
 Pode Acessar Direto em >>> 
 https://gist.github.com/marciofjr
 
-
-Alguns códigos combinados possibilita a criação de relatórios, robôs (bot), script's,
-DashBoard, ... etc. o céu é o limite rsrsrs
-Lógico que só o básico do VBA não é suficiente em determinadas demandas,
-é necessário conhecimentos um pouco mais avançados ou até mesmo em outras linguagem de programação.
+#Objetivo:
+  Alguns códigos combinados possibilita a criação de relatórios, robôs (bot), script's,
+  DashBoard, ... etc. o céu é o limite rsrsrs
+  Lógico que só o básico do VBA não é suficiente em determinadas demandas,
+  é necessário conhecimentos um pouco mais avançados ou até mesmo em outras linguagem de programação.
 
 
 No Geral em um departamento administrativo é o suficiente para o dia-a-dia de um usuário final.
 
 
-Por quê automatizar processos/rotinas (usar bot - robôs)::::
-  Um robô pode atender 1 tarefa ou 1 milhão de tarefas ao mesmo tempo 
-  (depende do servidor, da memória, de como foi construído, etc…).
-  - Robô trabalha em qualquer horário sem reclamar e quase não tem erros (programado correto).
+- Por quê automatizar processos/rotinas (usar bot - robôs)::::
+    Um robô pode atender 1 tarefa ou 1 milhão de tarefas ao mesmo tempo 
+    (depende do servidor, da memória, de como foi construído, etc…).
+    Robô trabalha em qualquer horário sem reclamar e quase não tem erros (programado correto).
 
 
 Márcio, legal tudo isso, mas qual tarefa é necessário automatizar?
