@@ -33,8 +33,8 @@ Com as 4 respostas em mãos calculamos:
     Pela analise dos itens acima é possível determinar quais são as tarefas serão automatizadas primeiro,
       quais serão orçadas com terceiros ou desenvolvida internamente e quais podem esperar.
 
-1 Exemplo/Simulação: <br/>
-     <p>Tarefa Relatório: </p><br/>
+1 Exemplo/Simulação:
+     <p>Tarefa Relatório: </p>
       <p><p> Periodicidade = 3 x semana  </p></p><br/>
         Tempo p/ Executar = 2 Horas <br/>
         Tenho Disponível = 1 hora por dia para automatizar <br/>
