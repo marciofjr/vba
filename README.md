@@ -41,19 +41,18 @@ Com as 4 respostas em mãos calculamos:
         Conhecimento: envolve o banco de dados (SQL) e formulas no Excel que preciso converter em VBA
     Tempo Ganho no mês: 3xSemana x 2Horas x (4 Semanas no Mês) = 24 Horas/mês
 
-*
-    Pela Importância do relatório posso alterar a periodicidade para diário, após a automatização.
- 
-    Cenário 1:
+   Pela Importância do relatório posso alterar a periodicidade para diário, após a automatização.
+
+   Cenário 1:
         Pelo meu conhecimento acredito que faço em 12horas --- Praticamente uns 15 dias para automatizar (1h por dia);
  
-    Cenário 2:
+   Cenário 2:
         Entendo pouco de VBA ou SQL, precisaria pesquisar um pouco as linguagens e ferramentas, 
-          então 10hrs Pesquisa/Estudo + 12hrs Programação --- Praticamente uns 1 mês para automatizar (1h por dia);
- 
- *  No cenário 2 se for urgente, compensaria pagar para terceiro automatizar a tarefa. 
+        então 10hrs Pesquisa/Estudo + 12hrs Programação --- Praticamente uns 1 mês para automatizar (1h por dia);
+
+   No cenário 2 se for urgente, compensaria pagar para terceiro automatizar a tarefa. 
 
 
-*  Espero que os códigos salvos aqui consiga ajudar/auxiliar.
+*   Espero que os códigos salvos aqui consiga ajudar/auxiliar.
 
-*  Por favor, compartilhem códigos e façam comentários.
+#  Por favor, compartilhem códigos e façam comentários.
