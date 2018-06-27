@@ -10,10 +10,10 @@ https://gist.github.com/marciofjr
   DashBoard, ... etc. o céu é o limite rsrsrs
   Lógico que só o VBA básico não é o suficiente,
   é necessário conhecimento avançado ou até mesmo em outras linguagens de programação. <br><br>
-Quero Compartilhar um pouco de conhecimento e código que possuo e criar um local onde estará todos meus códgios (comecei pelo VBA).
-
+<i> &emsp; Quero Compartilhar um pouco de conhecimento e códigos que possuo. <br>
+  &emsp; E um local para armazenar meus códigos também rsrsrs (comecei pelo VBA). </i> 
 <br>
-- Por quê automatizar processos/rotinas (usar bot - robôs): <br>
+- Por quê automatizar processos/rotinas (usar bot - robôs):
     Um robô pode atender 1 tarefa ou 1 milhão de tarefas ao mesmo tempo 
     (depende do servidor, da memória, de como foi construído, etc…). <br>
     Robô trabalha em qualquer horário sem reclamar e quase não tem erros (programado correto).
