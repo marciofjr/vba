@@ -9,11 +9,12 @@ https://gist.github.com/marciofjr
   Alguns códigos combinados possibilita a criação de relatórios, robôs (bot), script's,
   DashBoard, ... etc. o céu é o limite rsrsrs
   Lógico que só o VBA básico não é o suficiente,
-  é necessário conhecimento avançado ou até mesmo em outras linguagens de programação. <br>
-<i> &emsp; Quero Compartilhar um pouco de conhecimento e códigos que possuo. <br>
-  &emsp; Além de um local para armazenar meus códigos rsrsrs (comecei pelo VBA). </i> 
+  é necessário conhecimento avançado ou até mesmo em outras linguagens de programação. 
+  <br>
+<i><b> &emsp; Quero Compartilhar um pouco de conhecimento e códigos que possuo. <br>
+  &emsp; Além de um local para armazenar meus códigos rsrsrs (comecei pelo VBA). </i></b>
 <br>
-- Por quê automatizar tarefas: </br>
+<b> - Por quê automatizar tarefas: </br> </b>
 &ensp; Um robô pode atender 1 tarefa ou 1 milhão de tarefas ao mesmo tempo 
     (depende do servidor, da memória, de como foi construído, etc…). <br>
 &ensp; Robô trabalha em qualquer horário sem reclamar e quase não tem erros (programado correto).
