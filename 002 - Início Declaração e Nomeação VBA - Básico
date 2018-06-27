@@ -1,0 +1,91 @@
+'Explicado no Arq. 001 - Desempenho VBA - Básico
+Option Explicit
+
+Private Sub basico02()
+
+'Explicado no Arq. 001 - Desempenho VBA - Básico
+Application.ScreenUpdating = False
+Application.EnableEvents = False
+Application.Calculation = xlCalculationManual
+
+'::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+':::::DECLARAÇÃO - EXTRA - RESUMO ::::::::::::
+'Não Expliquei das Declarações, mas é a parte mais importante em qualquer código
+'Normalmente utilizamos uma instrução Dim para declarar nossas variáveis. 
+'Uma instrução de declaração pode ser colocada dentro de um procedimento para criar uma variável de nível de procedimento. 
+'Ou ela pode ser colocada na parte superior do módulo, na seção de Declarações, para criar uma variável de nível de >módulo<.
+'Conforme é declarado impacta diretamente em desempenho e na leitura do código.
+'Uma variável também poderá ser utilizada em todo o projeto (diferentes módulos), para isso, 
+'ao invés de usarmos a declaração Dim, usamos da declaração Public.
+'::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+'Tipo de Variáveis para Declarar :::::::::::::::::::::::::::
+  'Geral
+    'Variant – Tipo Genérico – se você apenas declara a variável (DIM X, por exemplo), ele considerará a variável do tipo VARIANT
+  'Teste Lógico
+    'Boolean – True ou False (Veradeiro ou Falso)
+  'Númericaaaaaa
+    'Byte – Número inteiro de 0 a 255
+    'Integer – Número inteiro de -32.768 a 32.767
+    'Long – Número inteiro de -2.147.483.648 e 2.147.783.647
+    'Double – Número entre 1,79769313486232E308 e 4.94065645841247E–324 (positivo ou negativo)
+    'Currency – Quantia monetária entre 922.337.203.685.477,5808 e 922.337.203.685.477,5807 (modo moeda)
+  'Data
+    'Date – Data entre 1/Janeiro/0100 e 31/Dezembro/9999
+  'Texto
+    'String – Texto com até 2 bolhões de caracteres.
+  'Link de Pesquisa >>> http://excelevba.com.br/variaveis-no-vba/
+'::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+'Enfim, apenas um resumo sobre Declaração e Variável ... Vamos ao que interessa:::
+
+'Esta Declaração é Padrão em meus Projetos de VBA
+'1) Declaro a variável nome da Planilha
+      Dim NomePlan As String
+'2) Declaro a variável nome da Guia Atual
+      Dim NomeGuia As String
+
+'3) Declaração das Guias em Objeto Excel
+  'Principal chamo sempre de "gx" --- guiaX
+      Dim gx As Excel.Worksheet
+  'Ap é sempre que utilizo de apoio para armazenar códigos nas células, campos fixos ou até mesmo calculos simples 
+      Dim ap As Excel.Worksheet
+
+'4) Outras Declarações Padrões
+  'Declaro X - utilizado muito em for 
+      Dim X As Long
+  'Declato última Linha Preenchida - UltLinP < padrão
+      Dim UltLinP As Long
+  
+'5) Alimentando as Variáveis 
+   'Nome na Planilha
+      NomePlan = ActiveWorkbook.Name
+
+   'Pego o Nome da Guia Atual onde encontra-se o "botão-da-macro" (ou onde estou executando a macro) - Marco zero
+      NomeGuia = ActiveSheet.Name
+   
+   'Fixa Objeto Excel nas variáveis:    
+      Set gx = Sheets(NomeGuia)
+      Set ap = Sheets("APOIO")
+
+   'Pega a última Linha da Guia Escolhida
+        UltLinP = gx.Cells(1048576, 2).End(xlUp).Row
+        'onde:
+          'gx. = a guia declarada, pode ser qualquer uma
+          '1048576 = última linha da planilha versão 2010 ou superior (Fixo)
+          '2 = coluna em número, no caso seria a coluna "B"
+          '.End(xlUp).Row = Debaixo para Cima encontra o último valor preenchido
+          
+   'Limpar uma Guia, mas Manter a Formatação feita/realizada
+        gx.Range("A11:BZ1048576").ClearContents
+
+ 'Vamos Parar por aqui ::::::::::::::::::::::::::::::::::::::
+ 'o básico que utilizo em todas as minhas planilhas é este.
+ 'Nada Complicado
+ 
+
+
+'Explicado no Arq. 001 - Desempenho VBA - Básico
+      Application.ScreenUpdating = True
+      Application.Calculation = xlCalculationSemiautomatic
+      Application.EnableEvents = True
+
+End Sub
