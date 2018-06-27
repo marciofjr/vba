@@ -11,20 +11,18 @@ https://gist.github.com/marciofjr
   Lógico que só o VBA básico não é o suficiente,
   é necessário conhecimento avançado ou até mesmo em outras linguagens de programação. <br><br>
 <i> &emsp; Quero Compartilhar um pouco de conhecimento e códigos que possuo. <br>
-  &emsp; E um local para armazenar meus códigos também rsrsrs (comecei pelo VBA). </i> 
+  &emsp; Além de um local para armazenar meus códigos rsrsrs (comecei pelo VBA). </i> 
 <br>
 - Por quê automatizar processos/rotinas (usar bot - robôs):
     Um robô pode atender 1 tarefa ou 1 milhão de tarefas ao mesmo tempo 
     (depende do servidor, da memória, de como foi construído, etc…). <br>
     Robô trabalha em qualquer horário sem reclamar e quase não tem erros (programado correto).
-
 <br>
 <b><i><p> &emsp; &emsp; &emsp; “Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;&emsp;&emsp;
  pois isto ensina a pensar” </i> — Steve Jobs</b></p>
-<br>
-
+<br><br>
 - Márcio, legal tudo isso, mas quais tarefas são necessarias a automatização?
- 
+
 Segue uma lista de requisitos que utilizo para avaliar a necessidade de automatizar uma tarefa:
     1) Periodicidade: é hora em hora, diário, semanal, mensal, ...
     2) Tempo para Executar a Tarefa: 5 minutos, 10 minutos, 5 horas, ... 
