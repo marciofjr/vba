@@ -1,24 +1,27 @@
 # Meus Arquivos em VBA 
- Bem Simples Várias Partes/Módulos
+&emsp; Módulos e Códigos Simples com comentários
 
 Pode Acessar Direto em >>> 
 https://gist.github.com/marciofjr
+
 
 # Objetivo:
   Alguns códigos combinados possibilita a criação de relatórios, robôs (bot), script's,
   DashBoard, ... etc. o céu é o limite rsrsrs
   Lógico que só o VBA básico não é o suficiente,
-  é necessário conhecimento avançado ou até mesmo em outras linguagem de programação.
+  é necessário conhecimento avançado ou até mesmo em outras linguagens de programação. <br><br>
+Quero Compartilhar um pouco de conhecimento e código que possuo e criar um local onde estará todos meus códgios (comecei pelo VBA).
 
-
-No Geral em um departamento administrativo é o suficiente para o dia-a-dia de um usuário final.
-
-
-- Por quê automatizar processos/rotinas (usar bot - robôs)::::
+<br>
+- Por quê automatizar processos/rotinas (usar bot - robôs): <br>
     Um robô pode atender 1 tarefa ou 1 milhão de tarefas ao mesmo tempo 
-    (depende do servidor, da memória, de como foi construído, etc…).
+    (depende do servidor, da memória, de como foi construído, etc…). <br>
     Robô trabalha em qualquer horário sem reclamar e quase não tem erros (programado correto).
 
+<br>
+<b><i><p> &emsp; &emsp; &emsp; “Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;&emsp;&emsp;
+ pois isto ensina a pensar” </i> — Steve Jobs</b></p>
+<br>
 
 - Márcio, legal tudo isso, mas quais tarefas são necessarias a automatização?
  
@@ -34,14 +37,13 @@ Com as 4 respostas em mãos calculamos:
       quais serão orçadas com terceiros ou desenvolvida internamente e quais podem esperar.
 
 1 Exemplo/Simulação: <br>
-&ensp; &ensp; Tarefa Relatório: <br> 
+&emsp; Tarefa Relatório: <br> 
 &ensp; &ensp; &ensp; Periodicidade = 3 x semana <br> 
 &ensp; &ensp; &ensp; Tempo p/ Executar = 2 Horas <br> 
-&ensp; &ensp; &ensp; Tenho Disponível = 1 hora por dia para automatizar </br> 
-&ensp; &ensp; &ensp; Conhecimento: envolve o banco de dados (SQL) e formulas no Excel que preciso converter em VBA 
+&ensp; &ensp; &ensp; Tenho Disponível = 1 hora por dia para automatizar <br> 
+&ensp; &ensp; &ensp; Conhecimento: envolve o banco de dados (SQL) e formulas no Excel que preciso converter em VBA <br> 
 
-
-&ensp; &ensp; &ensp; Tempo Ganho no mês: 3xSemana x 2Horas x (4 Semanas no Mês) = 24 Horas/mês </ul></br>
+&emsp; Tempo Ganho no mês: 3xSemana x 2Horas x (4 Semanas no Mês) = 24 Horas/mês </ul></br>
 
  Pela Importância do relatório posso alterar a periodicidade para diário, após a automatização.
 
@@ -54,6 +56,10 @@ Com as 4 respostas em mãos calculamos:
 
    No cenário 2 se for urgente, compensaria pagar para terceiro automatizar a tarefa. 
 
+<br>
+<b><i><p> &emsp; &emsp; &emsp; “Até onde você vai para otimizar o seu trabalho visando torna-lo menos massante <br> &emsp;&emsp;&emsp;&emsp;
+  e assim melhorar sua qualidade de vida?” </i></b></p>
+<br>
 
--  Espero que os códigos salvos aqui consiga ajudar/auxiliar.
+-  Espero que os códigos salvos aqui consiga ajudar.
 -  Por favor, compartilhem códigos e façam comentários.
