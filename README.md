@@ -34,8 +34,8 @@ Com as 4 respostas em mãos calculamos:
       quais serão orçadas com terceiros ou desenvolvida internamente e quais podem esperar.
 
 1 Exemplo/Simulação: <br/>
-    Tarefa Relatório: <br/> <p>
-        Periodicidade = 3 x semana <br/> <p>
+     <p>Tarefa Relatório: <br/>
+      <p><p> Periodicidade = 3 x semana <br/>
         Tempo p/ Executar = 2 Horas <br/>
         Tenho Disponível = 1 hora por dia para automatizar <br/>
         Conhecimento: envolve o banco de dados (SQL) e formulas no Excel que preciso converter em VBA <br/>
