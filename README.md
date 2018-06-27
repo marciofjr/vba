@@ -14,11 +14,11 @@ https://gist.github.com/marciofjr
 <i><b> &emsp; Quero Compartilhar um pouco de conhecimento e códigos que possuo. <br>
   &emsp; Além de um local para armazenar meus códigos rsrsrs (comecei pelo VBA). </i></b>
 <br>
-<b> <li> Por quê automatizar tarefas: </br> </b> </li>
+<b> <li> Por quê automatizar tarefas: </br> </b>
 &ensp; Um robô pode atender 1 tarefa ou 1 milhão de tarefas ao mesmo tempo 
     (depende do servidor, da memória, de como foi construído, etc…). <br>
 &ensp; Robô trabalha em qualquer horário sem reclamar e quase não tem erros (programado correto).
- <br>
+ </li> <br>
 <b><i><p> &emsp; &emsp; &emsp; “Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;&emsp;&emsp;
  pois isto ensina a pensar” </i> — Steve Jobs</b></p>
 <br>
