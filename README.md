@@ -33,9 +33,11 @@ Com as 4 respostas em mãos calculamos:
     Pela analise dos itens acima é possível determinar quais são as tarefas serão automatizadas primeiro,
       quais serão orçadas com terceiros ou desenvolvida internamente e quais podem esperar.
 
-1 Exemplo/Simulação: 
+1 Exemplo/Simulação: <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Tarefa Relatório:
-Periodicidade = 3 x semana </br> Tempo p/ Executar = 2 Horas </br> Tenho Disponível = 1 hora por dia para automatizar </br> Conhecimento: envolve o banco de dados (SQL) e formulas no Excel que preciso converter em VBA </br> Tempo Ganho no mês: 3xSemana x 2Horas x (4 Semanas no Mês) = 24 Horas/mês </ul></br>
+&ensp; Periodicidade = 3 x semana </br> 
+&emsp; Tempo p/ Executar = 2 Horas </br> 
+Tenho Disponível = 1 hora por dia para automatizar </br> Conhecimento: envolve o banco de dados (SQL) e formulas no Excel que preciso converter em VBA </br> Tempo Ganho no mês: 3xSemana x 2Horas x (4 Semanas no Mês) = 24 Horas/mês </ul></br>
 
  Pela Importância do relatório posso alterar a periodicidade para diário, após a automatização.
 
