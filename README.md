@@ -55,5 +55,5 @@ e-mail:</b> <i>marcioferreira_junior@hotmail.com</i>
 <br>.
 <br>.
 <br>.
-<br><b><i><p>“Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;
-pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
+<br><b><i>“Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;
+pois isto ensina a pensar” </i> — Steve Jobs </b>
