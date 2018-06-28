@@ -25,9 +25,10 @@
 <br><b>Pergunta importante: <br>
 <i><p> &emsp;&emsp;“Até onde você vai para otimizar o seu trabalho visando torna-lo menos massante <br> 
 &emsp;&emsp;&emsp;e assim melhorar sua qualidade de vida?” </i></p></b> 
+<br><br>
+<b> <p> <li> Márcio, legal tudo isso, mas quais tarefas são necessarias a automatização e qual o momento certo? </br> </li> </p> </b>
 <br>
-- Márcio, legal tudo isso, mas quais tarefas são necessarias a automatização e qual o momento certo?
-
+<br>
 falhas constantes na realização de tarefas;
 desatualização das informações;
 dificuldades em analisar dados;
