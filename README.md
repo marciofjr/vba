@@ -42,33 +42,15 @@
 &emsp;&emsp;&emsp;&emsp;Pela analise dos itens acima é possível determinar quais são as tarefas que serão automatizadas primeiro,<br>
 &emsp;&emsp;&emsp;&emsp;quais serão orçadas com terceiros ou desenvolvida internamente e quais podem esperar.<br>
 <br><br>
-1 Exemplo/Simulação: <br>
-&emsp; Tarefa Relatório: <br> 
-&ensp; &ensp; &ensp; Periodicidade = 3 x semana <br> 
-&ensp; &ensp; &ensp; Tempo p/ Executar = 2 Horas <br> 
-&ensp; &ensp; &ensp; Tenho Disponível = 1 hora por dia para automatizar <br> 
-&ensp; &ensp; &ensp; Conhecimento: envolve o banco de dados (SQL) e formulas no Excel que preciso converter em VBA <br> 
+<b> --------------------------------------------------------------------------------------------------------------------------- </b>
+<br><br>
+<b>Espero que os códigos apresentados possam ajudá-lo de certa forma. <br>
+Por favor, compartilhe os códigos e realize comentários.</b>
 
-&emsp; Tempo Ganho no mês: 3xSemana x 2Horas x (4 Semanas no Mês) = 24 Horas/mês </ul></br>
-
- Pela Importância do relatório posso alterar a periodicidade para diário, após a automatização.
-
-   Cenário 1:
-        Pelo meu conhecimento acredito que faço em 12horas --- Praticamente uns 15 dias para automatizar (1h por dia);
- 
-   Cenário 2:
-        Entendo pouco de VBA ou SQL, precisaria pesquisar um pouco as linguagens e ferramentas, 
-        então 10hrs Pesquisa/Estudo + 12hrs Programação --- Praticamente uns 1 mês para automatizar (1h por dia);
-
-   No cenário 2 se for urgente, compensaria pagar para terceiro automatizar a tarefa. 
-
-<br>
 
 <b><i><p> &emsp; &emsp; &emsp; “Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;&emsp;&emsp;
  pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
 <br>
-
 <br>
 
--  Espero que os códigos salvos aqui consiga ajudar.
--  Por favor, compartilhem códigos e façam comentários.
+
