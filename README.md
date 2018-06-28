@@ -37,11 +37,10 @@
 &emsp;&emsp;&emsp;<b>2) Tempo para Executar a Tarefa:</b> 5 minutos, 10 minutos, 5 horas, ...  <br> 
 &emsp;&emsp;&emsp;<b>3) Seu Tempo Disponível para automatizar:</b> consigo dedicar 1 hora por dia, 30 minutos por dia...  <br>
 &emsp;&emsp;&emsp;<b>4) Conhecimentos Necessários para realizar a automatização:</b> VBA, SQL, Excel Avançado, PHP, HTML, Python, ... Etc. <br>
-<br>
-Com as 4 respostas em mãos calculamos:
-    1) Tempo Ganho no mês = (Periodicidade x Tempo para Executar <X> Qtd Executado no Mês)
-    Pela analise dos itens acima é possível determinar quais são as tarefas serão automatizadas primeiro,
-      quais serão orçadas com terceiros ou desenvolvida internamente e quais podem esperar.
+<br>&emsp;&emsp;<b>Com as 4 respostas em mãos calculamos: </b> <br>
+&emsp;&emsp;&emsp;<b>1) Tempo Ganho no mês </b> = (Periodicidade x Tempo para Executar <X> Qtd Executado no Mês)<br>
+&emsp;&emsp;&emsp;Pela analise dos itens acima é possível determinar quais são as tarefas que serão automatizadas primeiro,<br>
+&emsp;&emsp;&emsp;quais serão orçadas com terceiros ou desenvolvida internamente e quais podem esperar.<br>
 
 1 Exemplo/Simulação: <br>
 &emsp; Tarefa Relatório: <br> 
