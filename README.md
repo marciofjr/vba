@@ -41,16 +41,12 @@
 &emsp;&emsp;&emsp;<b><i>Tempo Ganho por mês com a automatização = (Periodicidade x Tempo p/ Executar x Qtd vezes Executada no mês)</b></i><br>
 &emsp;&emsp;&emsp;&emsp;Pela analise dos itens acima é possível determinar quais são as tarefas que serão automatizadas primeiro,<br>
 &emsp;&emsp;&emsp;&emsp;quais serão orçadas com terceiros ou desenvolvida internamente e quais podem esperar.<br>
-<br><br>
+<br>
 <b> --------------------------------------------------------------------------------------------------------------------------- </b>
-<br><br>
-<b>Espero que os códigos apresentados possam ajudá-lo de certa forma. <br>
-Por favor, compartilhe os códigos e realize comentários.</b>
-
-
+<br>
+<b>Espero que os códigos apresentados possam ajudá-lo de certa forma. <br><br>
+Por favor, compartilhe os códigos e realize comentários.</b> <br>
 <b><i><p> &emsp; &emsp; &emsp; “Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;&emsp;&emsp;
  pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
 <br>
 <br>
-
-
