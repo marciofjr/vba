@@ -50,8 +50,6 @@ Por favor, compartilhe os códigos e realize comentários.</b> <br>
 <b><br>Contatos: <br>
 e-mail:</b> <i>marcioferreira_junior@hotmail.com</i>
 <br><b>Siga-me no LinkedIn: <a href="https://www.linkedin.com/in/marciofjr/"> @ M a r c i o F j r </a> </b>
-
-
 <br>.
 <br>.
 <br>.
