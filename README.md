@@ -13,7 +13,7 @@
   <br> <br>
 <i><b> &emsp; Quero Compartilhar um pouco de conhecimento e códigos que possuo. <br>
   &emsp; Além de um local para armazenar meus códigos rsrsrs (comecei pelo VBA). </i></b>
-<br><br>
+<br>
 <b> --------------------------------------------------------------------------------------------------- </b>
 <b> <p> <li> Por quê automatizar tarefas? Quais as vantagens? </br> </b>
 &emsp;&emsp; Uma tarefa automatizada pode executar de 1 até 1 milhão de funções ao mesmo tempo, sem cansar rsrsrs. <br> 
@@ -25,7 +25,7 @@
 <b>Pergunta importante: </b> <br>
 <i><p> &emsp; &emsp; &emsp; “Até onde você vai para otimizar o seu trabalho visando torna-lo menos massante <br> 
 &emsp;&emsp;&emsp;&emsp;e assim melhorar sua qualidade de vida?” </i></p>
-<br><br>
+<br>
 - Márcio, legal tudo isso, mas quais tarefas são necessarias a automatização e qual o momento certo?
 
 falhas constantes na realização de tarefas;
