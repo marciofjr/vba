@@ -10,9 +10,9 @@
   DashBoard, ... etc. o céu é o limite rsrsrs
   Lógico que só o VBA básico não é o suficiente,
   é necessário conhecimento avançado ou até mesmo em outras linguagens de programação. 
-  <br>
-<i><b> &emsp; Quero Compartilhar um pouco de conhecimento e códigos que possuo. <br>
-  &emsp; Além de um local para armazenar meus códigos rsrsrs (comecei pelo VBA). </i></b>
+  <br><br>
+<i><b> &emsp; &emsp; Quero Compartilhar um pouco de conhecimento e códigos que possuo. <br>
+ &emsp;&emsp; Além de um local para armazenar meus códigos rsrsrs (comecei pelo VBA). </i></b>
 <br><br>
 <b> --------------------------------------------------------------------------------------------------- </b>
 <b> <p> <li> Por quê automatizar tarefas? Quais as vantagens? </br> </b>
@@ -22,7 +22,7 @@
 &emsp;&emsp; confiança na informação e custo zero após desenvolvido. <br>
 &emsp;&emsp; Os nomes mais comuns para "Automatização de Tarefas" são: Robô, Bot, Script, ... etc.
   </li> </p>
-<b>Pergunta importante: </b> <br>
+<br><b>Pergunta importante: </b> <br>
 <i><p> &emsp; &emsp; &emsp; “Até onde você vai para otimizar o seu trabalho visando torna-lo menos massante <br> 
 &emsp;&emsp;&emsp;&emsp;e assim melhorar sua qualidade de vida?” </i></p>
 <br>
