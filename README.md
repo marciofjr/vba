@@ -32,13 +32,12 @@
 &emsp;&emsp;&emsp;- desatualização das informações; <br>
 &emsp;&emsp;&emsp;- dificuldades em analisar dados; <br>
 &emsp;&emsp;&emsp;- obstáculos e atrasos no compartilhamento de dados. <br>
+&emsp;&emsp;<b>Segue uma lista de requisitos que utilizo para avaliar a necessidade de automatizar uma tarefa: <br></b
+&emsp;&emsp;&emsp;1) Periodicidade: é hora em hora, diário, semanal, mensal, ...  <br>
+&emsp;&emsp;&emsp;2) Tempo para Executar a Tarefa: 5 minutos, 10 minutos, 5 horas, ...  <br> 
+&emsp;&emsp;&emsp;3) Seu Tempo Disponível para automatizar: consigo dedicar 1 hora por dia, 30 minutos por dia...  <br>
+&emsp;&emsp;&emsp;4) Conhecimento Necessário para realizar a automatização.  <br>
 <br>
-Segue uma lista de requisitos que utilizo para avaliar a necessidade de automatizar uma tarefa:
-    1) Periodicidade: é hora em hora, diário, semanal, mensal, ...
-    2) Tempo para Executar a Tarefa: 5 minutos, 10 minutos, 5 horas, ... 
-    3) Seu Tempo Disponível para automatizar: consigo dedicar 1 hora por dia, 30 minutos por dia...
-    4) Conhecimento Necessário para realizar a automatização.
-    
 Com as 4 respostas em mãos calculamos:
     1) Tempo Ganho no mês = (Periodicidade x Tempo para Executar <X> Qtd Executado no Mês)
     Pela analise dos itens acima é possível determinar quais são as tarefas serão automatizadas primeiro,
