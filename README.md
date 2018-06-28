@@ -25,16 +25,15 @@
 <br><b>Pergunta importante: <br>
 <i><p> &emsp;&emsp;“Até onde você vai para otimizar o seu trabalho visando torna-lo menos massante <br> 
 &emsp;&emsp;&emsp;e assim melhorar sua qualidade de vida?” </i></p></b> 
-<br><br>
-<b> <p> <li> Márcio, legal tudo isso, mas quais tarefas são necessarias a automatização e qual o momento certo? </br> </li> </p> </b>
 <br>
+<b> <p> <li> Márcio, legal tudo isso, mas quais tarefas são necessárias à automatização e qual o momento certo? </br> </li> </p> </b>
+<br>&emsp;&emsp;O momento é quando ocorre: <br>
+&emsp;&emsp;&emsp;- falhas constantes na realização de tarefas; <br>
+&emsp;&emsp;&emsp;- desatualização das informações; <br>
+&emsp;&emsp;&emsp;- dificuldades em analisar dados; <br>
+&emsp;&emsp;&emsp;- obstáculos e atrasos no compartilhamento de dados. <br>
+
 <br>
-falhas constantes na realização de tarefas;
-desatualização das informações;
-dificuldades em analisar dados;
-obstáculos e atrasos no compartilhamento de dados.
-
-
 Segue uma lista de requisitos que utilizo para avaliar a necessidade de automatizar uma tarefa:
     1) Periodicidade: é hora em hora, diário, semanal, mensal, ...
     2) Tempo para Executar a Tarefa: 5 minutos, 10 minutos, 5 horas, ... 
