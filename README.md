@@ -22,9 +22,9 @@
 &emsp;&emsp; confiança na informação e custo zero após desenvolvido. <br>
 &emsp;&emsp; Os nomes mais comuns para "Automatização de Tarefas" são: Robô, Bot, Script, ... etc.
   </li> </p> <br>
-Pergunta Chave: <br>
-<b><i><p> &emsp; &emsp; &emsp; “Até onde você vai para otimizar o seu trabalho <br> 
-&emsp;&emsp;&emsp;&emsp; visando torna-lo menos massante e assim melhorar sua qualidade de vida?” </i></b></p>
+<u> Pergunta Chave: </u> <br>
+<b><i><p> &emsp; &emsp; &emsp; “Até onde você vai para otimizar o seu trabalho visando torna-lo menos massante <br> 
+&emsp;&emsp;&emsp;&emsp;e assim melhorar sua qualidade de vida?” </i></b></p>
 <br><br>
 - Márcio, legal tudo isso, mas quais tarefas são necessarias a automatização e qual o momento certo?
 
