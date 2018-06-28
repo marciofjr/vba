@@ -45,8 +45,9 @@
 <b> --------------------------------------------------------------------------------------------------------------------------- </b>
 <br><br>
 <b>Espero que os códigos apresentados possam ajudá-lo de certa forma. <br><br>
-Por favor, compartilhe os códigos e realize comentários.</b> <br><br><br>
-<b><i><p> &emsp; “Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;
+Por favor, compartilhe os códigos e realize comentários.</b> <br><br>
+<b><i><p>“Todos neste país deveriam aprender a programar um computador, <br> &emsp;
  pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
-<br>
-<br>
+<br>.
+<br>.
+<br>.
