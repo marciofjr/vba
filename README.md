@@ -51,4 +51,4 @@ pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
 .
 <br>.
 <br>.
-<br> <a href="https://www.linkedin.com/in/marciofjr/">Acesse meu LinkedIn</a> 
+<br><b>Contato: <br> &emsp;&emsp;&emsp;&emsp;  <a href="https://www.linkedin.com/in/marciofjr/">Acesse meu LinkedIn</a> </b>
