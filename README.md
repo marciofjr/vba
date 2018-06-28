@@ -26,8 +26,8 @@
 <i><p> &emsp;&emsp;“Até onde você vai para otimizar o seu trabalho visando torna-lo menos massante <br> 
 &emsp;&emsp;&emsp;e assim melhorar sua qualidade de vida?” </i></p></b> 
 <br>
-<b> <p> <li> Márcio, legal tudo isso, mas quais tarefas são necessárias à automatização e qual o momento certo? </li> </p> </b>
-&emsp;&emsp;O momento é quando identificamos: <br>
+<b> <p> <li> Márcio, legal tudo isso, mas quais tarefas são necessárias à automatização? </li> </p> </b>
+&emsp;&emsp;<b>Quando identificamos: <br></b>
 &emsp;&emsp;&emsp;- falhas constantes na realização de tarefas; <br>
 &emsp;&emsp;&emsp;- desatualização das informações; <br>
 &emsp;&emsp;&emsp;- dificuldades em analisar dados; <br>
