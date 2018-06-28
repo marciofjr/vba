@@ -45,11 +45,15 @@
 <b> --------------------------------------------------------------------------------------------------------------------------- </b>
 <br><br>
 <b>Espero que os códigos apresentados possam ajudá-lo de certa forma. <br><br>
-Por favor, compartilhe os códigos e realize comentários.</b> <br><br>
+Por favor, compartilhe os códigos e realize comentários.</b> <br>
+<br>
+<b>E-mail:</b> <i>marcioferreira_junior@hotmail.com</i>
+<br><b>Siga-me no LinkedIn: 
+&emsp;&emsp;&emsp;&emsp;  <a href="https://www.linkedin.com/in/marciofjr/"> @ M a r c i o F j r </a> </b>
+
+
+<br>.
+<br>.
+<br>.
 <br><b><i><p>“Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;
 pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
-.
-<br>.
-<br>.
-<br><b>Contato, Visite minha Página no LinkedIn: <br> 
-&emsp;&emsp;&emsp;&emsp;  <a href="https://www.linkedin.com/in/marciofjr/"> @ M a r c i o F j r </a> </b>
