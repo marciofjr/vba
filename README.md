@@ -48,6 +48,7 @@
 Por favor, compartilhe os códigos e realize comentários.</b> <br><br>
 <b><i><p>“Todos neste país deveriam aprender a programar um computador, <br> &emsp;
  pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
+.
 <br>.
 <br>.
-<br>.
+<br> https://www.linkedin.com/in/marciofjr/
