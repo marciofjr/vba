@@ -19,11 +19,12 @@
 &emsp;&emsp; Uma tarefa automatizada pode executar de 1 até 1 milhão de funções ao mesmo tempo, sem cansar rsrsrs. <br> 
 &emsp;&emsp; Lógico que depende de alguns fatores como: servidor, memória, de como foi construído o código, etc…). <br>
 &emsp;&emsp; As vantagens são: rapidez, redução de tempo, aumento de produtividade, simultaneidade de execução, <br> 
-&emsp;&emsp; confiança na informação e custo zero após desenvolvido.
+&emsp;&emsp; confiança na informação e custo zero após desenvolvido. <br>
+&emsp;&emsp; Os nomes mais comuns para "Automatização de Tarefas" são: Robô, Bot, Script, ... etc.
   </li> </p> <br>
-<b><i><p> &emsp; &emsp; &emsp; “Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;&emsp;&emsp;
- pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
 <br>
+<b><i><p> &emsp; &emsp; &emsp; “Até onde você vai para otimizar o seu trabalho visando torna-lo menos massante <br> &emsp;&emsp;&emsp;&emsp;
+  e assim melhorar sua qualidade de vida?” </i></b></p>
 
 - Márcio, legal tudo isso, mas quais tarefas são necessarias a automatização e qual o momento certo?
 
@@ -65,8 +66,11 @@ Com as 4 respostas em mãos calculamos:
    No cenário 2 se for urgente, compensaria pagar para terceiro automatizar a tarefa. 
 
 <br>
-<b><i><p> &emsp; &emsp; &emsp; “Até onde você vai para otimizar o seu trabalho visando torna-lo menos massante <br> &emsp;&emsp;&emsp;&emsp;
-  e assim melhorar sua qualidade de vida?” </i></b></p>
+
+<b><i><p> &emsp; &emsp; &emsp; “Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;&emsp;&emsp;
+ pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
+<br>
+
 <br>
 
 -  Espero que os códigos salvos aqui consiga ajudar.
