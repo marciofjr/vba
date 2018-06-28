@@ -15,15 +15,23 @@
   &emsp; Além de um local para armazenar meus códigos rsrsrs (comecei pelo VBA). </i></b>
 <br><br>
 <b> --------------------------------------------------------------------------------------------------- </b>
-<b> <p> <li> Por quê automatizar tarefas ? </br> </b>
-&emsp; Um robô pode atender 1 tarefa ou 1 milhão de tarefas ao mesmo tempo <br> 
-&emsp; (depende do servidor, da memória, de como foi construído, etc…). <br>
-&emsp; Robô trabalha em qualquer horário sem reclamar e quase não tem erros (programado correto).
+<b> <p> <li> Por quê automatizar tarefas? Quais as vantagens? </br> </b>
+&emsp;&emsp; Uma tarefa automatizada pode executar de 1 até 1 milhão de funções ao mesmo tempo, sem cansar rsrsrs. <br> 
+&emsp;&emsp; Lógico que depende de alguns fatores como: servidor, memória, de como foi construído o código, etc…). <br>
+&emsp;&emsp; As vantagens são: rapidez, redução de tempo, aumento da produtividade, confiança na execução/informação e custo zero após desenvolvido.
   </li> </p> <br>
 <b><i><p> &emsp; &emsp; &emsp; “Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;&emsp;&emsp;
  pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
 <br>
 - Márcio, legal tudo isso, mas quais tarefas são necessarias a automatização?
+
+maior rapidez de desembarque;
+controle de tarifas de armazenamento preferenciais;
+habilitação simultânea de fornecedores;
+substituição de beneficiários;
+redução de tempo e custos desses processos;
+aumento da produtividade do setor.
+
 
 Segue uma lista de requisitos que utilizo para avaliar a necessidade de automatizar uma tarefa:
     1) Periodicidade: é hora em hora, diário, semanal, mensal, ...
