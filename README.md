@@ -1,7 +1,7 @@
 # Meus Arquivos em VBA 
 &emsp; Módulos e Códigos Simples com comentários
 
-&emsp; Pode Acessar Direto em >>> 
+&emsp; Pode Acessar Direto em: <br> 
 &emsp; &emsp; https://gist.github.com/marciofjr
 
 
