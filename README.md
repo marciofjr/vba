@@ -13,7 +13,8 @@
   <br> <br>
 <i><b> &emsp; Quero Compartilhar um pouco de conhecimento e códigos que possuo. <br>
   &emsp; Além de um local para armazenar meus códigos rsrsrs (comecei pelo VBA). </i></b>
-<br>
+<br><br>
+<b> --------------------------------------------------------------------------------------------------- </b>
 <b> <p> <li> Por quê automatizar tarefas ? </br> </b>
 &emsp; Um robô pode atender 1 tarefa ou 1 milhão de tarefas ao mesmo tempo <br> 
 &emsp; (depende do servidor, da memória, de como foi construído, etc…). <br>
