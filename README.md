@@ -46,9 +46,9 @@
 <br><br>
 <b>Espero que os códigos apresentados possam ajudá-lo de certa forma. <br><br>
 Por favor, compartilhe os códigos e realize comentários.</b> <br><br>
-<b><i><p>“Todos neste país deveriam aprender a programar um computador, <br> &emsp;
- pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
+<br><b><i><p>“Todos neste país deveriam aprender a programar um computador, <br> &emsp;&emsp;
+pois isto ensina a pensar” </i> — Steve Jobs </b> </p>
 .
 <br>.
 <br>.
-<br> https://www.linkedin.com/in/marciofjr/
+<br> <a href="https://www.linkedin.com/in/marciofjr/">Acesse meu LinkedIn</a> 
