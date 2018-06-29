@@ -1,0 +1,77 @@
+Option Explicit
+
+Private Sub relatorioSQL()
+
+Application.ScreenUpdating = False
+Application.EnableEvents = False
+Application.Calculation = xlCalculationManual
+
+'Explicado no Arq. 002 - Início Declaração e Nomeação VBA - Básico
+    Dim NomePlan As String
+    Dim NomeGuia As String
+    Dim gx As Excel.Worksheet
+    Dim ap As Excel.Worksheet
+    Dim X As Long
+    Dim UltLinP As Long
+    Dim Query_1 As String
+
+    'Nome na Planilha
+        NomePlan = ActiveWorkbook.Name
+        NomeGuia = ActiveSheet.Name
+        
+        Set gx = Sheets(NomeGuia)
+        Set ap = Sheets("APOIO")
+        
+        ap.AutoFilterMode = False
+        gx.AutoFilterMode = False
+        
+        'Limpa a Tabela antes de Receber as informações do SQL
+        gx.Range("A11:BZ1048576").ClearContents
+        
+'@FIM - Explicado no Arq. 002 - Início Declaração e Nomeação VBA - Básico
+
+'Conexão ao SQL - Banco de Dados ----------------------------------------------------------------
+    'Antes Precisa Ativar alguns recursos na Biblioteca do Excel ---> "Ferramentas>Referências...", adicionar:
+    '1) Microsoft ADO Ext. X.X  'no meu office 2016 a versão é 6.0
+    '2) Microsoft ActiveX Data Objects X.X 'no meu office 2016 a versão é 6.1
+    
+   'Declaração
+        Dim cntest_excel As ADODB.Connection
+        Dim strConn As String
+        Dim rsPubs3 As ADODB.Recordset
+        Set cntest_excel = New ADODB.Connection
+
+'Substituir onde localizar %%sua informação%%
+strConn = "Driver={SQL Server};Server=%%seu_ip%%;Database=%%seuBanco de Dados - Nome%%;UID=%%usuário do banco de dados%%;PWD=%%SenhaDoBancoDeDadosDoUsuário%%;"
+    cntest_excel.ConnectionTimeout = 10 'Espera 10 segundos para abrir a conexão
+    cntest_excel.CommandTimeout = 300   'Espera até 05 minutos para execução de uma Query
+    cntest_excel.Open strConn 'Deixa Aberto a Conexão com o Banco de Dados
+   
+'Query se for muito grande pode ser colocado em uma Célula na Planilha (Limitado a 8.000 Caracteres o Tamanho da Query Limite do SQL
+'Query_1 = ap.Range("A5").Value <<< ou pode ser Direto como >>> "Select * From Sua_Tabela"
+
+'Abre uma Nova Consulta
+  Set rsPubs = New ADODB.Recordset
+    With rsPubs
+        Query_1 = ap.Range("A5").Value 'ou pode ser Direto como "Select * From Sua_Tabela"
+        .ActiveConnection = cntest_excel
+        .Open Query_1
+        ' Envia os dados da Query Executada para Planilha
+        gx.Range("B11").CopyFromRecordset rsPubs
+        ' Fecha a Consulta
+        .Close
+    End With
+    
+'Importante
+' Fechar Todas as conexões
+    cntest_excel.Close
+    Set rsPubs = Nothing
+    Set cntest_excel = Nothing
+    Set gx = Nothing
+    Set ap = Nothing
+
+Application.ScreenUpdating = True
+Application.Calculation = xlCalculationSemiautomatic
+Application.EnableEvents = True
+
+End Sub
