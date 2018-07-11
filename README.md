@@ -1,8 +1,10 @@
-# Meus Arquivos em VBA 
+# Meus Arquivos em VBA (Fase Inicial - 07/07/2018)
 &emsp; Módulos e Códigos Simples com comentários
 
 &emsp; Pode Acessar Direto em: <br> 
-&emsp; &emsp; https://gist.github.com/marciofjr <br>
+&emsp; &emsp; https://gist.github.com/marciofjr  <br><br> 
+&emsp; Parte 2 - Pode Acessar biblioteca SQL em: <br> 
+&emsp; &emsp; https://github.com/marciofjr/sql <br> 
 
 
 # Objetivo:
